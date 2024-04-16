@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARDelarosa
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Launch School Projects.
+- 🌱 I’m currently enrolled at USD FullStackAcademy Bootcamp.
+- 💞️ I’m looking to collaborate with classmates on team projects.
 - 📫 How to reach me with email delarosa1254@gmail.com
 
 <!---
