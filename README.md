@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ARDelarosa
-- 👀 I’m interested in programming.
+- 👀 I am interested in computer programming.
 - 🌱 I’m currently enrolled at USD FullStackAcademy Bootcamp.
 - 💞️ I’m looking to collaborate with classmates on team projects.
 - 📫 How to reach me with email delarosa1254@gmail.com
