@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARDelarosa
 - 👀 I am interested in computer programming.
-- 🌱 I’m currently enrolled at USD FullStackAcademy Bootcamp.
-- 💞️ I’m looking to collaborate with classmates on team projects.
+- 🌱 I graduated from the USD FullStackAcademy Bootcamp.
+- 💞️ I’m looking for Jr level software engineer position.
 - 📫 How to reach me with email delarosa1254@gmail.com
 
 <!---
